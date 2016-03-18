@@ -1,0 +1,34 @@
+{
+  "name": "react-test-app",
+  "version": "1.0.0",
+  "description": "Playing with react redux",
+  "main": "server.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Guru107/react-test-app.git"
+  },
+  "keywords": [
+    "react",
+    "redux"
+  ],
+  "author": "Gurudatt Kulkarni",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Guru107/react-test-app/issues"
+  },
+  "homepage": "https://github.com/Guru107/react-test-app#readme",
+  "devDependencies": {
+    "babel-core": "^6.7.2",
+    "redux-devtools": "^3.1.1",
+    "webpack": "^1.12.14",
+    "webpack-dev-middleware": "^1.5.1",
+    "webpack-hot-middleware": "^2.10.0"
+  },
+  "dependencies": {
+    "react": "^0.14.7",
+    "react-dom": "^0.14.7"
+  }
+}
